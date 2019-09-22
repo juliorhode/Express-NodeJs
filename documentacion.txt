@@ -1,0 +1,24 @@
+inicio
+-------
+npm ini --yes
+
+dependencias
+------------
+npm i express
+npm i morgan ver todas las peticiones (http logger middleware)
+npm install ejs
+
+enrutamiento
+------------
+rutas http: get, post, put, delete
+
+Middleware
+-----------
+funciones que permite manejar las peticiones
+
+Configuraciones
+---------------
+Aqui se configuran plantillas (motor de plantilla para funcionalidad html)
+EJS,ERB,JInja2,Razor,Hnadlebars,Jade, etc
+
+instalar la extension EJS de vscode
